@@ -1,3 +1,0 @@
-git init 初始化
-git add . 本次代码存放暂存区
-git commit -m 暂存提交到远程
